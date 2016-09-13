@@ -1,6 +1,6 @@
 # hello-world
 
-Just another repository
+Hej hej hej,
 This is a page.
 I think this is stupid.
 Goodbye.
